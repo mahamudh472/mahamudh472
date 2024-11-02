@@ -10,4 +10,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahamudh472&show_icons=true&count_private=true&theme=radical)
 
-![PRs](https://img.shields.io/github/issues-pr-closed/mahamudh472?label=Total%20PRs)
