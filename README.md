@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 My facebook profile link https://facebook.com/mdthepylover
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudh472&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahamudh472&show_icons=true&count_private=true&theme=radical)
+### Numbers
+![mahamudh472's Stats](https://github-readme-stats.vercel.app/api?username=mahamudh472&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
+![mahamudh472's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahamudh472&theme=darcula&hide_border=true)
+
+![mahamudh472's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudh472&theme=darcula&show_icons=true&hide_border=true&layout=compact)
