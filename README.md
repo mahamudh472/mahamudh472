@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=mahamudh472&color=blue)
+
 ### Hi, I'm Mahmud Hasan! 👋
 
 #### 🛠️ Technologies and Tools I Use:
