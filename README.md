@@ -23,8 +23,26 @@ I am a web developer with a profound love for Python and the art of programming.
 
 
 ### Numbers
-![mahamudh472's Stats](https://github-readme-stats.vercel.app/api?username=mahamudh472&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <a href="https://github.com/roniahamed">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=mahamudh472&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" />
+    <!-- Top Star -->
+  </a>
+  <a href="https://github.com/roniahamed/">
+    <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudh472&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+    <!-- Top Language -->
+    
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/roniahamed/">
+    <!-- <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=roniahamed&theme=tokyonight&hide_border=true" /> -->
+     <img alt="" src="https://nirzak-streak-stats.vercel.app/?user=mahamudh472&theme=dark&hide_border=false" />
+  </a>
+</p>
 
-![mahamudh472's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahamudh472&theme=darcula&hide_border=true)
-
-![mahamudh472's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudh472&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/roniahamed">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=mahamudh472&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
+  </a>
+</p>
