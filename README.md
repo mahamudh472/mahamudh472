@@ -40,7 +40,3 @@ I am a web developer with a profound love for Python and the art of programming.
      <img alt="" src="https://nirzak-streak-stats.vercel.app/?user=mahamudh472&theme=dark&hide_border=false" />
   </a>
 </p>
-
-
-
-
