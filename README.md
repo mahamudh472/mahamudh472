@@ -1,3 +1,5 @@
+<!-- HEADER WAVE ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:334155,100:475569&height=200&section=header&text=Md%20Mahmud%20Hasan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Engineer%20%7C%20Django%20%7C%20DRF%20%7C%20PostgreSQL&descAlignY=58&descAlign=50&descSize=18" alt="Header Wave" />
 
 
 ### Hi, I'm Mahmud Hasan! 👋
@@ -40,3 +42,6 @@ I am a web developer with a profound love for Python and the art of programming.
      <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=mahamudh472&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:475569,100:64748b&height=120&section=footer" alt="Footer Wave" />
