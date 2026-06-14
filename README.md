@@ -97,7 +97,6 @@ I am a web developer with a profound love for Python and the art of programming.
 </p>
 <p align="center">
   <a href="https://github.com/mahamudh472/">
-    <!-- <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=roniahamed&theme=tokyonight&hide_border=true" /> -->
      <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=mahamudh472&theme=tokyonight&hide_border=true" />
   </a>
 </p>
