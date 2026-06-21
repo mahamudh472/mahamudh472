@@ -28,6 +28,10 @@
 
 ---
 
+I am a web developer with a profound love for Python and the art of programming. For me, coding is not just a profession—it’s a craft and a source of endless joy. I thrive on the thrill of solving problems, debugging complex issues, and creating meaningful scripts. Spending hours immersed in code feels less like work and more like an exploration of creativity and logic.
+
+---
+
 ## Tech Stack
 
 <table width="100%">
@@ -76,11 +80,6 @@
   </tr>
 </table>
 
----
-
-
-
-I am a web developer with a profound love for Python and the art of programming. For me, coding is not just a profession—it’s a craft and a source of endless joy. I thrive on the thrill of solving problems, debugging complex issues, and creating meaningful scripts. Spending hours immersed in code feels less like work and more like an exploration of creativity and logic.
 
 
 ### Numbers
