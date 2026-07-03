@@ -80,8 +80,6 @@ I am a web developer with a profound love for Python and the art of programming.
   </tr>
 </table>
 
-
-
 ### Numbers
 <p align="center">
   <a href="https://github.com/mahamudh472">
