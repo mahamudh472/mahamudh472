@@ -78,13 +78,10 @@ I am a web developer with a profound love for Python and the art of programming.
       <img src="https://img.shields.io/badge/REST%20APIs-25D366?style=flat-square" alt="REST APIs" />
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
       <img src="https://img.shields.io/badge/WebSockets-0A66C2?style=flat-square&logo=socket.io&logoColor=white" alt="WebSockets" />
-      <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=flat-square" alt="Webhooks" />
       <img src="https://img.shields.io/badge/OAuth%202.0-4F46E5?style=flat-square&logo=auth0&logoColor=white" alt="OAuth 2.0" />
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-      <img src="https://img.shields.io/badge/OpenAPI%2FSwagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="OpenAPI / Swagger" />
       <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
       <img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google OAuth" />
-      <img src="https://img.shields.io/badge/MTN%20Mobile%20Money-FFCC00?style=flat-square" alt="MTN Mobile Money" />
       <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
       <img src="https://img.shields.io/badge/Meta%20Marketing%20API-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta Marketing API" />
       <img src="https://img.shields.io/badge/TikTok%20Business%20API-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok Business API" />
@@ -107,9 +104,6 @@ I am a web developer with a profound love for Python and the art of programming.
       <img src="https://img.shields.io/badge/WebSockets-0A66C2?style=flat-square&logo=socket.io&logoColor=white" alt="WebSockets" />
       <img src="https://img.shields.io/badge/Celery%20Beat-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery Beat" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-      <img src="https://img.shields.io/badge/Message%20Brokers-FF6600?style=flat-square" alt="Message brokers" />
-      <img src="https://img.shields.io/badge/Event--Driven%20Architecture-6A5ACD?style=flat-square" alt="Event-driven architecture" />
-      <img src="https://img.shields.io/badge/Live%20Streaming-FF0000?style=flat-square" alt="Live streaming" />
     </td>
     <td width="33%" valign="top">
       <strong>Cloud & Cloud Services</strong><br/><br/>
