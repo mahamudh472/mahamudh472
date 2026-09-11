@@ -70,8 +70,6 @@ I am a web developer with a profound love for Python and the art of programming.
       <img src="https://img.shields.io/badge/Strawberry%20GraphQL-A63FE0?style=flat-square&logo=graphql&logoColor=white" alt="Strawberry GraphQL" />
       <img src="https://img.shields.io/badge/Daphne-092E20?style=flat-square" alt="Daphne" />
       <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square" alt="Gunicorn" />
-      <img src="https://img.shields.io/badge/Uvicorn%2FASGI-2E9AFE?style=flat-square" alt="Uvicorn / ASGI" />
-      <img src="https://img.shields.io/badge/WSGI-4B8BBE?style=flat-square" alt="WSGI" />
     </td>
     <td width="33%" valign="top">
       <strong>API & Integration</strong><br/><br/>
