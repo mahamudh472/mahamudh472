@@ -92,7 +92,6 @@ I am a web developer with a profound love for Python and the art of programming.
       <img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square" alt="RAG" />
       <img src="https://img.shields.io/badge/Vector%20Databases-FF6F61?style=flat-square" alt="Vector databases" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
     </td>
   </tr>
   <tr>
