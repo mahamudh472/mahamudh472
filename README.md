@@ -132,7 +132,6 @@ I am a web developer with a profound love for Python and the art of programming.
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
       <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
-      <img src="https://img.shields.io/badge/Pull%20Requests-6f42c1?style=flat-square&logo=github&logoColor=white" alt="Pull Request" />
     </td>
     <td width="33%" valign="top">
       <strong>Architecture & Testing</strong><br/><br/>
