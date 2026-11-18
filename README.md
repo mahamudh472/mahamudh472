@@ -68,8 +68,6 @@ I am a web developer with a profound love for Python and the art of programming.
       <img src="https://img.shields.io/badge/Django%20Channels-092E20?style=flat-square&logo=django&logoColor=white" alt="Django Channels" />
       <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
       <img src="https://img.shields.io/badge/Strawberry%20GraphQL-A63FE0?style=flat-square&logo=graphql&logoColor=white" alt="Strawberry GraphQL" />
-      <img src="https://img.shields.io/badge/Daphne-092E20?style=flat-square" alt="Daphne" />
-      <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square" alt="Gunicorn" />
     </td>
     <td width="33%" valign="top">
       <strong>API & Integration</strong><br/><br/>
