@@ -118,7 +118,6 @@ I am a web developer with a profound love for Python and the art of programming.
       <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux servers" />
-      <img src="https://img.shields.io/badge/Certbot%2FLet's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white" alt="Certbot / Let's Encrypt" />
       <img src="https://img.shields.io/badge/WhiteNoise-4B8BBE?style=flat-square" alt="WhiteNoise" />
       <img src="https://img.shields.io/badge/SSL%2FTLS-3F51B5?style=flat-square" alt="SSL/TLS configuration" />
     </td>
